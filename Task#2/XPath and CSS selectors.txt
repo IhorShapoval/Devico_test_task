@@ -1,0 +1,9 @@
+XPath selector:
+
+//a[@class='home-top-section__button-container']/div[@class='button']
+
+
+
+CSS selector:
+
+.home-top-section__button-container .button
